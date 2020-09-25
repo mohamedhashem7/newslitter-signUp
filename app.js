@@ -61,5 +61,3 @@ app.listen(process.env.PORT || 3000 ,function(){
     console.log("server is running on port 3000");
 });
 
-//df78aa12dee47965b637f84999f8a188-us2
-//2142f2b062
